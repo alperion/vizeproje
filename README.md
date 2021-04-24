@@ -1,0 +1,2 @@
+# vizeproje
+basit galeri uygulaması
